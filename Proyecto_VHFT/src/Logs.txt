@@ -1,0 +1,104 @@
+·····················································
+ · Fecha del error: 22/05/2022 22:35:18
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 22/05/2022 22:37:03
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 22/05/2022 22:37:25
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 09:04:55
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 09:06:50
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 10:12:16
+ · Error:No value specified for parameter 1
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 12:47:43
+ · Error:Column 'temporxfdfgxfgada' not found.
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:13
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:13
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:13
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:13
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:25
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:25
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:25
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:42:25
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:04
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:04
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:04
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:04
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:49
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:49
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:49
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 17:43:49
+ · Error:Cannot invoke "java.sql.Connection.prepareStatement(String)" because "this.conn" is null
+·····················································
+·····················································
+ · Fecha del error: 23/05/2022 20:51:18
+ · Error: Data truncation: Data too long for column 'Conferencia' at row 1
+·····················································
+·····················································
+ · Fecha del error: 24/05/2022 10:24:26
+ · Error: Cannot add or update a child row: a foreign key constraint fails (`nba`.`jugadores`, CONSTRAINT `jugadores_ibfk_1` FOREIGN KEY (`Nombre_equipo`) REFERENCES `equipos` (`Nombre`))
+·····················································
+·····················································
+ · Fecha del error: 24/05/2022 10:30:38
+ · Error: Cannot add or update a child row: a foreign key constraint fails (`nba`.`jugadores`, CONSTRAINT `jugadores_ibfk_1` FOREIGN KEY (`Nombre_equipo`) REFERENCES `equipos` (`Nombre`))
+·····················································
